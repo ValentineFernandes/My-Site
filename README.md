@@ -11,4 +11,7 @@
 <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
 
 # Visit my website here
-https://valentinefernandes.github.io/My-Site/ 
+<a href="https://valentinefernandes.github.io/My-Site/">
+<img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png"></a>
+&nbsp;<a href="https://mysiteapp.netlify.app"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/netlify.jpg"></a>
+
