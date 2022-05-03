@@ -13,5 +13,5 @@
 # Visit my website here
 <a href="https://valentinefernandes.github.io/My-Site/">
 <img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png"></a>
-&nbsp;<a href="https://mysiteapp.netlify.app"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/netlify.jpg"></a>
+&nbsp;<a href="https://mysiteapp.netlify.app"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/netlify.jpg"></a> 
 
