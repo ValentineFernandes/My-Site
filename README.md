@@ -1,5 +1,5 @@
 # My-Site
-✅ This is my website with my short intro.
+✅ This is my website with my short intro.<br/>
 ✅ It's mobile friendly.
 <img align="left" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img3.jpg" />
 
