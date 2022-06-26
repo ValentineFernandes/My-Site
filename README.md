@@ -14,6 +14,8 @@
 <img alt= "Last commit" src="https://img.shields.io/github/last-commit/ValentineFernandes/My-Site?color=9cf" />
 </p>
 
+> My site is my website with a short intro and its compitable with mobile devices.
+
 <div align="center">
 <img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/mysite.png" /> 
 </div>
