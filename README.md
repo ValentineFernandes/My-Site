@@ -1,8 +1,13 @@
-# My-Site
-✅ This is my website with my short intro.<br/>
-✅ It's mobile friendly.
-<img align="left" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img3.jpg" /> 
+<h1 align="center">My-Site</h1>
 
+<div align="center">
+<img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/mysite.png" /> 
+</div>
+
+# Features
+✅ This is my website with my short intro.<br/>
+✅ It's mobile friendly. 
+ 
 # Technologies used
 <img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-0066FF?style=for-the-badge&logo=css3&logoColor=white">
