@@ -1,7 +1,7 @@
 <h1 align="center">My-Site</h1>
 
 <p align="center">	
-   <a href="http://www.linkedin.com/in/valentine-fernandes-75701622b">
+   <a href="http://www.linkedin.com/in/valentine-fernandes-75701622b"> 
       <img alt="Valentine Fernandes" src="https://img.shields.io/badge/-ValentineFernandes-82CAFF?style=flat&logo=Linkedin&logoColor=white" />
    </a> 
   <a href="https://github.com/ValentineFernandes/My-Site/blob/main/LICENSE">
